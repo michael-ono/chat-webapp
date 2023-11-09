@@ -1,10 +1,16 @@
+import { ChatEngine } from "react-chat-engine";
+import "./App.css"
+
 
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <ChatEngine
+      height="100vh"
+      projectID=""
+      userName=""
+      userSecret=""
+    /> 
   )
 }
 
-export default App
+export default App;
