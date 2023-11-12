@@ -11,6 +11,7 @@ const App = () => {
         projectID="68500ffe-dda2-4c62-971c-6bf1fc8b2694"
         userName="techhunter"
         userSecret="123456"
+        renderChatFeed={() => {}}
       />
     </div>
   )
