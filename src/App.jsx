@@ -5,7 +5,7 @@ import "./App.css"
 const App = () => {
   return (
     <div>
-      <h2>Rect cht engine app</h2>
+      {/* <h2>React chat engine app</h2> */}
       <ChatEngine
         height="100vh"
         projectID="68500ffe-dda2-4c62-971c-6bf1fc8b2694"
